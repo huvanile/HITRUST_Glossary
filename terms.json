@@ -1,0 +1,58 @@
+var glossary = {
+    "items": [{
+            "term": "Access Control",
+            "title": "Access Control",
+            "definition": "A security method that ensures users have the minimum, appropriate access level to electronic and physical assets. [HITRUST] The process of granting or denying specific requests to 1) obtain and use information and related information processing services; and 2) enter specific physical facilities. [NIST IR 7298 r2]"
+            },
+        {
+            "term": "Accountability",
+            "title": "Accountability",
+            "definition": "The security goal that generates the requirement for actions of an entity to be traced uniquely to that entity. This supports non-repudiation, deterrence, fault isolation, intrusion detection and prevention, and after-action recovery and legal action. [NIST IR 7298 r2] "
+            },
+        {
+            "term": "Accounting of Disclosures",
+            "title": "Accounting of Disclosures",
+            "definition": "A listing of organizations and individuals who have received access to or have been provided with a copy of an individual’s protected health information. [HHS HAS, derived from discussion]"
+            },
+        {
+            "term": "Ad hoc",
+            "title": "Ad hoc",
+            "definition": "See Undocumented."
+            },
+        {
+            "term": "Adequate Security",
+            "title": "Adequate Security",
+            "definition": "Security commensurate with the risk and the magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of information. [NIST IR 7298 r2]"
+            },
+        {
+            "term": "Adversary",
+            "title": "Adversary",
+            "definition": "Individual, group, organization or government that conducts or has the intent to conduct detrimental activities. [NIST IR 7298 r2]"
+            },
+        {
+            "term": "Alternate Control",
+            "title": "Alternate Control",
+            "definition": "A compensating control that has been submitted and approved for general use by the HITRUST Alternate Controls Committee. See Compensating Control. [HITRUST]"
+            },
+        {
+            "term": "Analysis Approach",
+            "title": "Analysis Approach",
+            "definition": "The approach used to define the orientation or starting point of the risk assessment, the level of detail in the assessment, and how risks due to similar threat scenarios are treated. [NIST SP 800-53 r4, derived from discussion]"
+            },
+        {
+            "term": "Aperiodic",
+            "title": "Aperiodic",
+            "definition": "Of irregular occurrence. [Merriam-Webster]"
+            },
+        {
+            "term": "Application",
+            "title": "Application",
+            "definition": "A software program that performs a specific function, or set of functions, and can be executed without access to system control, monitoring, or administrative privileges. [NIST IR 7298 r2, adapted]"
+            },
+		{
+            "term": "Assessment",
+            "title": "Assessment",
+            "definition": "See Security Control Assessment or Risk Assessment. [HITRUST]"
+            }			
+    ]
+}
